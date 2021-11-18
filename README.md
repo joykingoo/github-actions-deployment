@@ -1,2 +1,2 @@
 # github-actions-deployment
-A reactjs application deployed to github actions and heroku
+A reactjs application deployed using github actions ci/cd pipelines and heroku
